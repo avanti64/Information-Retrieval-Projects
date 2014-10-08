@@ -1,7 +1,7 @@
 Information-Retrieval-Projects
 ==============================
 
-This repository Has all the projects I worked on in my information retrieval course
+This repository has the projects I am working on in my information retrieval course
 
 
 READ ME- Web Crawler
